@@ -7,6 +7,7 @@ Estudante de Desenvolvimento de Sistemas 👨‍💻
 
 >"A persistência é o caminho do êxito" <br> Autor : Charles Chaplin
 <hr>
+
 [![Danilo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilojustin&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🛠️ Linguagem Que Estou Aprendendo
