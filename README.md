@@ -1,4 +1,3 @@
-# Danilo Justino
 # 👨‍💻 Sobre mim
 Olá! Eu sou o  Danilo Justino 👋
 <br/><br/>
@@ -8,14 +7,32 @@ Estudante de Desenvolvimento de Sistemas 👨‍💻
 >"A persistência é o caminho do êxito" <br> Autor : Charles Chaplin
 <hr>
 
-[![Danilo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilojustin&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+<h4 align="left">📍Meus contatos</h4>
 
-#### 🛠️ Linguagem Que Estou Aprendendo
-<div style="display: inline_block">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:medanilolisboa087@gmail.com)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&https://wa.me/qr/2RSNFLDHCYO5G1)
+
+
+<div style="text-align: center;" align="center">
+  <h4 align="left">🔥Minhas Estatísticas:</h4>
+  
+
+  <a href="https://github.com/danilojustin/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Danilojustin&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+
+  <hr>
+
+<h4 align="left">🛠️ Linguagem e Ferramentas Estou Aprendendo</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" /> 
+  </div>
 
 
 
