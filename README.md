@@ -7,12 +7,6 @@ Estudante de Desenvolvimento de Sistemas 👨‍💻
 
 >"A persistência é o caminho do êxito" <br> Autor : Charles Chaplin
 <hr>
-
-#### 📍 Meus Contatos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(<a href="mailto:danilolisboa087@gmail.com? subject=subject text">)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/2RSNFLDHCYO5G1)
-
 [![Danilo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilojustin&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🛠️ Linguagem Que Estou Aprendendo
