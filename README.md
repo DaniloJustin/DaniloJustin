@@ -2,9 +2,24 @@
 Olá! Eu sou o  Danilo Justino 👋
 <br/><br/>
 Estudante de Desenvolvimento de Sistemas 👨‍💻
+Na instuição Etec Uirapuru
 
 
->"A persistência é o caminho do êxito" <br> Autor : Charles Chaplin
+<hr>
+
+<h4 align="left">🛠️ Linguagem e Ferramentas que Estou Aprendendo</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" /> 
+  </div>
+  
+<hr>
+"A persistência é o caminho do êxito" <br> Autor : Charles Chaplin
 <hr>
 
 <div style="text-align: center;" align="center">
@@ -22,26 +37,12 @@ Estudante de Desenvolvimento de Sistemas 👨‍💻
 
   <hr>
 
-<h4 align="left">🛠️ Linguagem e Ferramentas Estou Aprendendo</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" /> 
-  </div>
-
-
-
-
-</div>
-
 
 <div align="center">
-<h3>Thank you for your visit, enjoy and follow me!🤩</h3>
+<h3>Obrigado pela visita, enjoy and follow me aqui no GitHub!🤩</h3>
 <p aling="center"><img aling="center" src="https://profile-counter.glitch.me/{Danilojustin}/count.svg"/> </p>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=footer"/>
+
+</div>
