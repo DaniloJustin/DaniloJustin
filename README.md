@@ -36,3 +36,11 @@ Estudante de Desenvolvimento de Sistemas 👨‍💻
 
 
 
+</div>
+
+
+<div align="center">
+<h3>Thank you for your visit, enjoy and follow me!🤩</h3>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
