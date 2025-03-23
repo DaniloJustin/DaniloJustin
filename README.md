@@ -39,7 +39,7 @@ Na instuição Etec Uirapuru
 
 
 <div align="center">
-<h3>Obrigado pela visita, enjoy and follow me aqui no GitHub!🤩</h3>
+<h3>Obrigado pela visita, aproveite e me seguir aqui no GitHub!🤩</h3>
 <p aling="center"><img aling="center" src="https://profile-counter.glitch.me/{Danilojustin}/count.svg"/> </p>
 
 
